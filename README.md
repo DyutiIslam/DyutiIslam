@@ -1,6 +1,5 @@
-## Hi👋
-
-**DyutiIslam/DyutiIslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello World👋
+I'm Dyuti Islam, a Biomedical Engineering PhD student at Kennesaw State University.
 
 - 🔭 I’m currently working on Human Guided Artificial Intelligence (HGAI) 
 - 🌱 I’m currently learning Signal Processing and Deep Learning methods.
